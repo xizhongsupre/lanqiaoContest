@@ -1,3 +1,2 @@
-git is a distributed version control system
-git is a free software distributed under the GPL
-how to do it?
+It is a collection which contains my practise for lanqiaoContest and other algorithum contest.
+So I will update this repository more ofen.  
