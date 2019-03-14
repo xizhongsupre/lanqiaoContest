@@ -1,16 +1,16 @@
-package weekday_class;
+ï»¿package weekday_class;
 
 import java.util.Scanner;
 
 /**
- *¿¿¿¿¿¿¿¿¿¿¿ 
+ *é é é é é ?
  * @author Viaxiz
  *
  */
 public class Main {
 	
 	/**
-	 * Õ·×ªÇóÓà
+	 * è¾—è½¬æ±‚ä½™
 	 * @param m
 	 * @param n
 	 * @return
@@ -22,7 +22,7 @@ public class Main {
 			return gcd2(n,m%n);
 	}
 	/**
-	 * ººÅµËş
+	 * æ±‰è¯ºå¡”
 	 */
 	public static int getTimes(int n) {
 		if(n==1)
