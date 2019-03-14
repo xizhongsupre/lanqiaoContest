@@ -1,8 +1,8 @@
-import java.util.Scanner;
+ï»¿import java.util.Scanner;
 
 public class Febonacci {
 	/* *
-	*À¶ÇÅ±­Begin-4£ºFebonacciÊıÁĞ
+	*è“æ¡¥æ¯Begin-4ï¼šFebonacciæ•°åˆ—
 	*@author Viaxiz
 	*/
 	public static void main(String[] args) {
