@@ -3,7 +3,6 @@
 import java.util.Scanner;
 
 /**
- *靠靠靠靠靠?
  * @author Viaxiz
  *
  */
